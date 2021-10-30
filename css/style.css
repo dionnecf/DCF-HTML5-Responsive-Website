@@ -24,7 +24,7 @@ body {
 
   .button_1{
       height: 36px;
-      background: #e8491d;
+      background: #e8419d;
       border: 0;
       padding-left: 20px;
       padding-right: 20px;
@@ -133,4 +133,12 @@ body {
 
 #boxes .box img{
     width: 90px;
+}
+
+footer{
+    padding: 20px;
+    margin-top: 20px;
+    color: #ffffff;
+    background-color: #e8419d;
+    text-align:center;
 }
